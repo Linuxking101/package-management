@@ -34,3 +34,9 @@ sudo ln -s /opt/tomcat9/bin/shutdown.sh /usr/bin/stoptomcat
 starttomcat
 ```
 
+
+
+
+
+now use this format to acces it on the web..  also open SG port 8080
+http://44.201.164.233:8080/
